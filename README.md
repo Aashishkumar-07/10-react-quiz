@@ -16,3 +16,6 @@ You may also see any lint errors in the console.
 ### `npm run server`
 
 Runs the json server where the questions and its corresponding details reside . The React-quiz fetches its data from this server.
+Open [https://qustions-json-server.onrender.com/questions](https://qustions-json-server.onrender.com/questions)
+)https://qustions-json-server.onrender.com/questions
+](http://localhost:3000) to view it in your browser.
